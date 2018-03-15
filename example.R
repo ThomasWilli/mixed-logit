@@ -2,7 +2,7 @@ rm(list=ls(all=T))
 library(rstan)
 library(dplyr)
 
-toydata <- read.table("mixed-logit/data/toydata.csv", header=T, sep=",")
+toydata <- read.table("data/toydata.csv", header=T, sep=",")
 
 R <- length(unique(toydata$id)) #Respondents
 X <- list()
@@ -31,7 +31,7 @@ datlist <- list(N=length(X),      #number of individuals
 
 rstan_options(auto_write = TRUE)
 options(mc.cores = parallel::detectCores())
-neth.stan <- stan(file="mixed-logit/stan/mnl_cl.stan", data=datlist,
+neth.stan <- stan(file="stan/mnl_cl.stan", data=datlist,
                   control = list(stepsize=0.01, 
                                  adapt_delta=0.99)) 
 
