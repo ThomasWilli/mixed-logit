@@ -16,8 +16,8 @@ model {
   
   for (n in 1:N) {
     utilities[n] = x[((n-1)*J+1):(n*J),] * beta;
-    utilities[n] = utilities[n] - (100 * Z[n]);
-    //utilities[n] = utilities[n] .* Z[n];
+    //utilities[n] = utilities[n] - (100 * Z[n]);
+    utilities[n] = utilities[n] .* Z[n];
     y[n] ~ categorical(softmax(utilities[n]));
   }
 }

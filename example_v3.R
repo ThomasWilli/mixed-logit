@@ -9,10 +9,8 @@ toydata <- readRDS("data/toydata.Rds")
 #get data into correct format
 TM1 = mlogit.data(toydata, choice = "lastvote", shape = "long",  alt.var = "mode")
 
-#create formula
 f = mFormula(lastvote ~ choice1 + choice2 | Age + Dist)
 
-#set up data
 M = model.matrix(f, TM1)
 
 #create index vector of viable alternatives
@@ -20,8 +18,8 @@ n=1
 Z <- list()
 for (r in unique(toydata$id)) { # respondents
   scenario <- toydata[toydata$id==r,]
-  Z[[n]] <- scenario$viable
-  #Z[[n]] <- as.numeric(scenario$viable!=1)
+  #Z[[n]] <- scenario$viable
+  Z[[n]] <- as.numeric(scenario$viable!=1)
   n <- n + 1
 }
 
@@ -41,8 +39,8 @@ datlist <- list(N=length(y),
 rstan_options(auto_write = TRUE)
 options(mc.cores = parallel::detectCores())
 out.stan <- stan(file="stan/mnl_cl_v2.stan", data=datlist,
-                  control = list(stepsize=0.01, 
-                                 adapt_delta=0.99)) 
+                 control = list(stepsize=0.01, 
+                                adapt_delta=0.99)) 
 
 #print(out.stan, digits = 3)
 
@@ -64,9 +62,6 @@ b <- extracter(fit1)
 pos <- grep("Dist",a$effekt)
 a[pos,]
 b[pos,]
-
-
-traceplot(out.stan, pars = c("beta[18]"), inc_warmup = TRUE, nrow = 2)
 
 
 
