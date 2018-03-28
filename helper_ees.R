@@ -3,6 +3,8 @@ parties <- read.table("https://raw.githubusercontent.com/ThomasWilli/mixed-logit
 
 
 
+
+
 label_changer <- function(ees_raw, cntrynr, belgium=NULL){
   
   if(is.null(belgium)){
@@ -44,21 +46,15 @@ label_changer <- function(ees_raw, cntrynr, belgium=NULL){
   
 }
 
-qpp5_changer <- function(ees, country, belgium=NULL){
+
+
+
+qpp5_changer <- function(ees, country){
   
-  if(is.null(belgium)){
+  
     qpp5.df <- parties %>%
       dplyr::filter(b==country)%>%
       dplyr::filter(var=="qpp5")
-  }else{
-    qpp5.df <- parties %>%
-      dplyr::filter(b==country)%>%
-      dplyr::filter(var=="qpp5")%>%
-      dplyr::filter(p7_region_nuts1==belgium)
-    
-    ees <- ees %>% filter(p7_region_nuts1==belgium)
-  }
-  
   
   ees$qpp5 <- as.character(ees$qpp5)
   ees$qpp5 <- as.numeric(ees$qpp5)
@@ -88,20 +84,15 @@ qpp5_changer <- function(ees, country, belgium=NULL){
 
 
 
-qpp6_changer <- function(ees_raw, country, belgium=NULL){
+qpp6_changer <- function(data, country){
   
-  if(is.null(belgium)){
-    qpp6.df <- parties %>%
+  
+  qpp6.df <- parties %>%
       dplyr::filter(b==country)%>%
       dplyr::filter(var=="qpp6")
-  }else{
-    qpp6.df <- parties %>%
-      dplyr::filter(b==country)%>%
-      dplyr::filter(var=="qpp6")%>%
-      dplyr::filter(p7_region_nuts1==belgium)
-    
-    eesf <- ees_raw %>% filter(p7_region_nuts1==belgium)
-  }
+  
+  eesf <- data
+  
   
   eesf$qpp6 <- as.character(eesf$qpp6)
   eesf$qpp6 <- as.numeric(eesf$qpp6)
@@ -119,7 +110,7 @@ qpp6_changer <- function(ees_raw, country, belgium=NULL){
     lal <- paste0("QUARK", as.character(qpp6.df[i,"value_old"]))
     eesf$qpp6 <- gsub(lal, new, eesf$qpp6, fixed=T)
     
-    #unique(ees$qpp6)
+    #unique(eesf$qpp6)
     
   }
   

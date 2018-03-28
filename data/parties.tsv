@@ -1,657 +1,621 @@
-cntry_short	p7_region_nuts1	b	var	value_old	value_new
-AT	NA	12	qpp5	1	OEVP
-AT	NA	12	qpp5	2	SPOE
-AT	NA	12	qpp5	3	NEOS
-AT	NA	12	qpp5	4	Gruene
-AT	NA	12	qpp5	5	FPOE
-AT	NA	12	qpp5	6	BZOE
-AT	NA	12	qpp5	7	LIF
-AT	NA	12	qpp5	8	FRITZ
-AT	NA	12	qpp5	9	KPOE
-AT	NA	12	qpp6	1	SPOE
-AT	NA	12	qpp6	2	OEVP
-AT	NA	12	qpp6	3	FPOE
-AT	NA	12	qpp6	4	BZOE
-AT	NA	12	qpp6	5	Gruene
-AT	NA	12	qpp6	6	KPOE
-AT	NA	12	qpp6	7	Piraten
-AT	NA	12	qpp6	8	Change
-AT	NA	12	qpp6	9	NEOS
-AT	NA	12	qpp6	10	REKOS
-BE	BE2	1	qpp5	1	PVDA
-BE	BE2	1	qpp5	2	CD_V
-BE	BE2	1	qpp5	3	sp.a
-BE	BE2	1	qpp5	4	Open_VLD
-BE	BE2	1	qpp5	5	N_VA
-BE	BE2	1	qpp5	6	Piraten
-BE	BE2	1	qpp5	7	VB
-BE	BE2	1	qpp5	8	cdH
-BE	BE2	1	qpp5	9	PS
-BE	BE2	1	qpp5	10	MR
-BE	BE2	1	qpp5	11	Ecolo
-BE	BE2	1	qpp5	12	PP
-BE	BE2	1	qpp5	13	PTB_go
-BE	BE2	1	qpp6	1	PS
-BE	BE2	1	qpp6	2	MR
-BE	BE2	1	qpp6	3	cdH
-BE	BE2	1	qpp6	4	Ecolo
-BE	BE2	1	qpp6	5	FN
-BE	BE2	1	qpp6	6	PTB_go
-BE	BE2	1	qpp6	7	FDF
-BE	BE2	1	qpp6	8	droite
-BE	BE2	1	qpp6	9	PP
-BE	BE2	1	qpp6	10	other_french
-BE	BE2	1	qpp6	11	CSP
-BE	BE2	1	qpp6	12	SP
-BE	BE2	1	qpp6	13	PFF
-BE	BE2	1	qpp6	14	ProDG
-BE	BE2	1	qpp6	15	other_german
-BE	BE2	1	qpp6	16	CD_V
-BE	BE2	1	qpp6	17	Groen
-BE	BE2	1	qpp6	18	N_VA
-BE	BE2	1	qpp6	19	sp.a
-BE	BE2	1	qpp6	20	VB
-BE	BE2	1	qpp6	21	Open_VLD
-BE	BE2	1	qpp6	22	PVDA
-BE	BE2	1	qpp6	23	other_dutch
-BE	BE3	1	qpp5	1	PVDA
-BE	BE3	1	qpp5	2	CD_V
-BE	BE3	1	qpp5	3	sp.a
-BE	BE3	1	qpp5	4	Open_VLD
-BE	BE3	1	qpp5	5	N_VA
-BE	BE3	1	qpp5	6	Piraten
-BE	BE3	1	qpp5	7	VB
-BE	BE3	1	qpp5	8	cdH
-BE	BE3	1	qpp5	9	PS
-BE	BE3	1	qpp5	10	MR
-BE	BE3	1	qpp5	11	Ecolo
-BE	BE3	1	qpp5	12	PP
-BE	BE3	1	qpp5	13	PTB_go
-BE	BE3	1	qpp6	1	PS
-BE	BE3	1	qpp6	2	MR
-BE	BE3	1	qpp6	3	cdH
-BE	BE3	1	qpp6	4	Ecolo
-BE	BE3	1	qpp6	5	FN
-BE	BE3	1	qpp6	6	PTB_go
-BE	BE3	1	qpp6	7	FDF
-BE	BE3	1	qpp6	8	droite
-BE	BE3	1	qpp6	9	PP
-BE	BE3	1	qpp6	10	other_french
-BE	BE3	1	qpp6	11	CSP
-BE	BE3	1	qpp6	12	SP
-BE	BE3	1	qpp6	13	PFF
-BE	BE3	1	qpp6	14	ProDG
-BE	BE3	1	qpp6	15	other_german
-BE	BE3	1	qpp6	16	CD_V
-BE	BE3	1	qpp6	17	Groen
-BE	BE3	1	qpp6	18	N_VA
-BE	BE3	1	qpp6	19	sp.a
-BE	BE3	1	qpp6	20	VB
-BE	BE3	1	qpp6	21	Open_VLD
-BE	BE3	1	qpp6	22	PVDA
-BE	BE3	1	qpp6	23	other_dutch
-BG	NA	31	qpp5	1	Citizens
-BG	NA	31	qpp5	2	Coal
-BG	NA	31	qpp5	3	MRF
-BG	NA	31	qpp5	4	Attack
-BG	NA	31	qpp5	5	Order
-BG	NA	31	qpp5	6	LIDER
-BG	NA	31	qpp5	7	Stability
-BG	NA	31	qpp5	8	Stability
-BG	NA	31	qpp5	9	IMRO
-BG	NA	31	qpp5	10	Democrats
-BG	NA	31	qpp5	11	C_movement
-BG	NA	31	qpp5	12	PROUD
-BG	NA	31	qpp6	1	Socialist
-BG	NA	31	qpp6	2	MRF
-BG	NA	31	qpp6	3	Attack
-BG	NA	31	qpp6	4	Citizens
-BG	NA	31	qpp6	5	Stability
-BG	NA	31	qpp6	6	Reformist
-BG	NA	31	qpp6	7	No_Censor
-BG	NA	31	qpp6	8	Mac_Rev
-BG	NA	31	qpp6	9	Georgia_day
-BG	NA	31	qpp6	10	agrarian
-BG	NA	31	qpp6	11	Revival
-BG	NA	31	qpp6	12	Blue_Unity
-BG	NA	31	qpp6	13	Greens
-BG	NA	31	qpp6	14	Glas
-BG	NA	31	qpp6	15	Dignity
-CZ	NA	33	qpp5	1	KDU
-CZ	NA	33	qpp5	2	TOP09
-CZ	NA	33	qpp5	3	CSSD
-CZ	NA	33	qpp5	4	Green
-CZ	NA	33	qpp5	5	Piraten
-CZ	NA	33	qpp5	6	ODS
-CZ	NA	33	qpp5	7	KSCM
-CZ	NA	33	qpp5	8	Usvit
-CZ	NA	33	qpp5	9	ANO2011
-CZ	NA	33	qpp5	10	Politika21
-CZ	NA	33	qpp5	11	Free_Citizens
-CZ	NA	33	qpp5	12	Civic_Rights
-CZ	NA	33	qpp5	13	Workers
-CZ	NA	33	qpp5	14	Republic
-CZ	NA	33	qpp5	15	Roma
-CZ	NA	33	qpp5	16	Common
-CZ	NA	33	qpp5	17	Green
-CZ	NA	33	qpp5	18	National_Social
-CZ	NA	33	qpp5	19	Public
-CZ	NA	33	qpp5	20	VIZE2014
-CZ	NA	33	qpp5	21	Right
-CZ	NA	33	qpp6	1	ODS
-CZ	NA	33	qpp6	2	CSSD
-CZ	NA	33	qpp6	3	KSCM
-CZ	NA	33	qpp6	4	KDU
-CZ	NA	33	qpp6	5	Public
-CZ	NA	33	qpp6	6	TOP09
-CZ	NA	33	qpp6	7	ANO2011
-CZ	NA	33	qpp6	8	Green
-CZ	NA	33	qpp6	9	Dawn
-CZ	NA	33	qpp6	10	Piraten
-CZ	NA	33	qpp6	11	Free_Citizens
-CZ	NA	33	qpp6	12	National_Social
-CZ	NA	33	qpp6	13	Mayors
-CZ	NA	33	qpp6	14	Politika21
-CZ	NA	33	qpp6	15	Civic_Rights
-CZ	NA	33	qpp6	16	Workers
-CZ	NA	33	qpp6	17	Republic
-CZ	NA	33	qpp6	18	Roma
-CZ	NA	33	qpp6	19	SNK
-CZ	NA	33	qpp6	20	Common
-CZ	NA	33	qpp6	21	Dawn
-CZ	NA	33	qpp6	22	VIZE2014
-CZ	NA	33	qpp6	23	Right
-DE	NA	20	qpp5	1	CDU
-DE	NA	20	qpp5	2	CSU
-DE	NA	20	qpp5	3	SPD
-DE	NA	20	qpp5	4	FDP
-DE	NA	20	qpp5	5	Gruene
-DE	NA	20	qpp5	6	Piraten
-DE	NA	20	qpp5	7	Linke
-DE	NA	20	qpp5	8	AfD
-DE	NA	20	qpp5	9	NPD
-DE	NA	20	qpp5	10	Republicans
-DE	NA	20	qpp6	1	CDU_CSU
-DE	NA	20	qpp6	2	SPD
-DE	NA	20	qpp6	3	Gruene
-DE	NA	20	qpp6	4	Linke
-DE	NA	20	qpp6	5	FDP
-DE	NA	20	qpp6	6	Piraten
-DE	NA	20	qpp6	7	AfD
-DE	NA	20	qpp6	8	Familien
-DE	NA	20	qpp6	9	Free_Voters
-DE	NA	20	qpp6	10	NPD
-DE	NA	20	qpp6	11	Ecological
-DE	NA	20	qpp6	12	Bible_Abiding
-DE	NA	20	qpp6	13	Republicans
-DE	NA	20	qpp6	14	Protection
-DK	NA	2	qpp5	1	Socialdem
-DK	NA	2	qpp5	2	Venstre
-DK	NA	2	qpp5	3	SF
-DK	NA	2	qpp5	4	Folkeparti
-DK	NA	2	qpp5	5	Radical
-DK	NA	2	qpp5	6	Red_Green
-DK	NA	2	qpp5	7	Liberal
-DK	NA	2	qpp5	8	Conservative
-DK	NA	2	qpp5	9	Christian
-DK	NA	2	qpp6	1	Socialdem
-DK	NA	2	qpp6	2	Radical
-DK	NA	2	qpp6	3	Conservative
-DK	NA	2	qpp6	4	SF
-DK	NA	2	qpp6	5	Folkeparti
-DK	NA	2	qpp6	6	Liberal
-DK	NA	2	qpp6	7	Venstre
-DK	NA	2	qpp6	8	Christian
-DK	NA	2	qpp6	9	Red_Green
-EE	NA	34	qpp5	1	IRL
-EE	NA	34	qpp5	2	SDE
-EE	NA	34	qpp5	3	Reform
-EE	NA	34	qpp5	4	Center
-EE	NA	34	qpp5	5	Greens
-EE	NA	34	qpp5	6	People_Union
-EE	NA	34	qpp5	7	Russian_Party
-EE	NA	34	qpp5	8	Christian
-EE	NA	34	qpp5	9	Independence_Party
-EE	NA	34	qpp6	1	Reform
-EE	NA	34	qpp6	2	Center
-EE	NA	34	qpp6	3	IRL
-EE	NA	34	qpp6	4	SDE
-EE	NA	34	qpp6	5	Greens
-EE	NA	34	qpp6	6	Conservative
-EE	NA	34	qpp6	7	Independence_Party
-EE	NA	34	qpp6	8	Independent
-GR	NA	4	qpp5	1	New_Democracy
-GR	NA	4	qpp5	2	Radical_Left
-GR	NA	4	qpp5	3	Panhellenic
-GR	NA	4	qpp5	4	Indpendent
-GR	NA	4	qpp5	5	Golden
-GR	NA	4	qpp5	6	Democratic_Left
-GR	NA	4	qpp5	7	Communist
-GR	NA	4	qpp5	8	Recreate
-GR	NA	4	qpp5	9	Orthodox
-GR	NA	4	qpp6	1	New_Democracy
-GR	NA	4	qpp6	2	Panhellenic
-GR	NA	4	qpp6	3	Communist
-GR	NA	4	qpp6	4	Radical_Left
-GR	NA	4	qpp6	5	Orthodox
-GR	NA	4	qpp6	6	Ecologist
-GR	NA	4	qpp6	7	Golden
-GR	NA	4	qpp6	8	Indpendent
-GR	NA	4	qpp6	9	Democratic_Left
-GR	NA	4	qpp6	10	River
-ES	NA	4	qpp5	1	PP
-ES	NA	4	qpp5	2	PSOE
-ES	NA	4	qpp5	3	United_Left
-ES	NA	4	qpp5	4	ICV
-ES	NA	4	qpp5	5	UPyD
-ES	NA	4	qpp5	6	CiU
-ES	NA	4	qpp5	7	Amaiur
-ES	NA	4	qpp5	8	EAJ_PNV
-ES	NA	4	qpp5	9	ERC
-ES	NA	4	qpp5	10	BNG
-ES	NA	4	qpp5	11	CC
-ES	NA	4	qpp5	12	Commitment
-ES	NA	4	qpp5	13	Forum
-ES	NA	4	qpp5	14	Future_Yes
-ES	NA	4	qpp5	15	AGE
-ES	NA	4	qpp5	16	Ciudadanos
-ES	NA	4	qpp5	17	Equo
-ES	NA	4	qpp6	1	PSOE
-ES	NA	4	qpp6	2	PP
-ES	NA	4	qpp6	3	United_Left
-ES	NA	4	qpp6	4	ICV
-ES	NA	4	qpp6	5	ANOVA
-ES	NA	4	qpp6	6	UPyD
-ES	NA	4	qpp6	7	CDC
-ES	NA	4	qpp6	8	EAJ_PNV
-ES	NA	4	qpp6	9	Unio
-ES	NA	4	qpp6	10	CC
-ES	NA	4	qpp6	11	Commitment
-ES	NA	4	qpp6	12	ERC
-ES	NA	4	qpp6	13	New_Cat_Left
-ES	NA	4	qpp6	14	BNG
-ES	NA	4	qpp6	15	EH_Bildu
-ES	NA	4	qpp6	16	Equo
-ES	NA	4	qpp6	17	Ciudadanos
-ES	NA	4	qpp6	18	Voice
-ES	NA	4	qpp6	19	Podemos
-FI	NA	6	qpp5	1	Kok
-FI	NA	6	qpp5	2	KD
-FI	NA	6	qpp5	3	SDP
-FI	NA	6	qpp5	4	Kesk
-FI	NA	6	qpp5	5	SFP
-FI	NA	6	qpp5	6	Vihr
-FI	NA	6	qpp5	7	Piraten
-FI	NA	6	qpp5	8	Vas
-FI	NA	6	qpp5	9	SKP
-FI	NA	6	qpp5	10	Independence
-FI	NA	6	qpp5	11	Change2011
-FI	NA	6	qpp5	12	Perus
-FI	NA	6	qpp5	13	Freedom_Party
-FI	NA	6	qpp5	14	Senior
-FI	NA	6	qpp5	15	Workers
-FI	NA	6	qpp5	16	Communist
-FI	NA	6	qpp5	17	Poor
-FI	NA	6	qpp6	1	Kesk
-FI	NA	6	qpp6	2	Kok
-FI	NA	6	qpp6	3	SDP
-FI	NA	6	qpp6	4	Vas
-FI	NA	6	qpp6	5	Vihr
-FI	NA	6	qpp6	6	SFP
-FI	NA	6	qpp6	7	Perus
-FI	NA	6	qpp6	8	KD
-FR	NA	7	qpp5	1	UMP
-FR	NA	7	qpp5	2	PS
-FR	NA	7	qpp5	3	FN
-FR	NA	7	qpp5	4	Miscalleneous_Left
-FR	NA	7	qpp5	5	EELV
-FR	NA	7	qpp5	6	Miscalleneous_Right
-FR	NA	7	qpp5	7	New_Centre
-FR	NA	7	qpp5	8	Left_Radical
-FR	NA	7	qpp5	9	FdG
-FR	NA	7	qpp5	10	Radical_Party
-FR	NA	7	qpp5	11	MoDem
-FR	NA	7	qpp5	12	Centrist
-FR	NA	7	qpp5	13	Regionalists
-FR	NA	7	qpp6	1	UDI
-FR	NA	7	qpp6	2	NPA
-FR	NA	7	qpp6	3	FdG
-FR	NA	7	qpp6	4	PS
-FR	NA	7	qpp6	5	Left_Radical
-FR	NA	7	qpp6	6	EELV
-FR	NA	7	qpp6	7	LO
-FR	NA	7	qpp6	8	UMP
-FR	NA	7	qpp6	9	FN
-FR	NA	7	qpp6	10	DLR
-FR	NA	7	qpp6	11	UOM
-FR	NA	7	qpp6	12	Alliance
-FR	NA	7	qpp6	13	New_Deal
-HU	NA	35	qpp5	2	FIDESZ
-HU	NA	35	qpp5	3	JOBBIK
-HU	NA	35	qpp5	4	LMP
-HU	NA	35	qpp6	1	Egyutt
-HU	NA	35	qpp6	2	MSZP
-HU	NA	35	qpp6	3	DK
-HU	NA	35	qpp6	4	FIDESZ
-HU	NA	35	qpp6	5	JOBBIK
-HU	NA	35	qpp6	6	LMP
-IE	NA	8	qpp5	1	FG
-IE	NA	8	qpp5	2	LP
-IE	NA	8	qpp5	3	FF
-IE	NA	8	qpp5	4	GP
-IE	NA	8	qpp5	5	SF
-IE	NA	8	qpp5	6	SP
-IE	NA	8	qpp5	7	PBP
-IE	NA	8	qpp5	8	New_Vision
-IE	NA	8	qpp5	9	SKIA
-IE	NA	8	qpp5	10	WP
-IE	NA	8	qpp5	11	Left_Alliance
-IE	NA	8	qpp5	12	CS
-IE	NA	8	qpp5	13	PC
-IE	NA	8	qpp5	14	New_Vision
-IE	NA	8	qpp6	1	FF
-IE	NA	8	qpp6	2	FG
-IE	NA	8	qpp6	3	LP
-IE	NA	8	qpp6	4	GP
-IE	NA	8	qpp6	5	SF
-IE	NA	8	qpp6	6	SP
-IE	NA	8	qpp6	7	PBP
-IE	NA	8	qpp6	8	New_Vision
-IE	NA	8	qpp6	9	SKIA
-IE	NA	8	qpp6	10	WP
-IE	NA	8	qpp6	11	Left_Alliance
-IE	NA	8	qpp6	12	CS
-IE	NA	8	qpp6	13	PC
-IE	NA	8	qpp6	14	New_Vision
-IT	NA	9	qpp5	1	PD
-IT	NA	9	qpp5	2	SEL
-IT	NA	9	qpp5	4	SVP
-IT	NA	9	qpp5	5	PDL
-IT	NA	9	qpp5	6	Lega
-IT	NA	9	qpp5	7	Fratelli
-IT	NA	9	qpp5	8	MpA
-IT	NA	9	qpp5	9	MCS
-IT	NA	9	qpp5	10	SC
-IT	NA	9	qpp5	11	UDC
-IT	NA	9	qpp5	12	Civil_Revolution
-IT	NA	9	qpp5	13	IdV
-IT	NA	9	qpp6	1	IdV
-IT	NA	9	qpp6	2	Lega
-IT	NA	9	qpp6	3	PD
-IT	NA	9	qpp6	4	Fi
-IT	NA	9	qpp6	5	NCD
-IT	NA	9	qpp6	6	UDC
-IT	NA	9	qpp6	7	Populars
-IT	NA	9	qpp6	8	Fratelli
-IT	NA	9	qpp6	9	SC
-IT	NA	9	qpp6	11	MCS
-IT	NA	9	qpp6	12	SVP
-IT	NA	9	qpp6	13	SEL
-LT	NA	37	qpp5	1	TS_LKD
-LT	NA	37	qpp5	2	LSDP
-LT	NA	37	qpp5	3	LRLS
-LT	NA	37	qpp5	4	DP
-LT	NA	37	qpp5	5	Liberal_C_Union
-LT	NA	37	qpp5	6	TT
-LT	NA	37	qpp5	7	LVZS
-LT	NA	37	qpp5	8	Courage
-LT	NA	37	qpp5	9	LLRA
-LT	NA	37	qpp6	1	DP
-LT	NA	37	qpp6	2	LZP
-LT	NA	37	qpp6	3	LLRA
-LT	NA	37	qpp6	4	LRLS
-LT	NA	37	qpp6	5	LSDP
-LT	NA	37	qpp6	6	LVZS
-LT	NA	37	qpp6	7	TT
-LT	NA	37	qpp6	8	TS_LKD
-LT	NA	37	qpp6	9	TAIP
-LU	NA	10	qpp5	1	CSV
-LU	NA	10	qpp5	2	LSAP
-LU	NA	10	qpp5	3	DP
-LU	NA	10	qpp5	4	Greng
-LU	NA	10	qpp5	5	Piraten
-LU	NA	10	qpp5	6	ADR
-LU	NA	10	qpp5	7	PID
-LU	NA	10	qpp5	8	Lenk
-LU	NA	10	qpp5	9	KPL
-LU	NA	10	qpp6	1	CSV
-LU	NA	10	qpp6	2	LSAP
-LU	NA	10	qpp6	3	DP
-LU	NA	10	qpp6	4	Greng
-LU	NA	10	qpp6	5	Piraten
-LU	NA	10	qpp6	6	ADR
-LU	NA	10	qpp6	7	PID
-LU	NA	10	qpp6	8	Lenk
-LU	NA	10	qpp6	9	KPL
-LV	NA	36	qpp5	1	V
-LV	NA	36	qpp5	2	Concord
-LV	NA	36	qpp5	5	Human_Rights
-LV	NA	36	qpp5	6	Fatherland
-LV	NA	36	qpp5	7	Presidential_Republic
-LV	NA	36	qpp5	8	Green
-LV	NA	36	qpp5	9	Reform_Party
-LV	NA	36	qpp5	10	LPP
-LV	NA	36	qpp5	14	Christian
-LV	NA	36	qpp5	15	Sdemocratic_Workers
-LV	NA	36	qpp5	16	Last
-LV	NA	36	qpp5	17	People_Control
-LV	NA	36	qpp5	18	Freedom
-LV	NA	36	qpp6	1	Russian_Union
-LV	NA	36	qpp6	2	Fatherland
-LV	NA	36	qpp6	3	V
-LV	NA	36	qpp6	4	Concord
-LV	NA	36	qpp6	5	Socialist
-LV	NA	36	qpp6	6	Green
-LV	NA	36	qpp6	7	Alternative
-LV	NA	36	qpp6	8	Development
-LV	NA	36	qpp6	9	Reform_Party
-MT	NA	38	qpp5	1	Laburista
-MT	NA	38	qpp5	2	Najjonalista
-MT	NA	38	qpp5	3	Alternative_Demo
-MT	NA	38	qpp6	2	Laburista
-MT	NA	38	qpp6	1	Najjonalista
-MT	NA	38	qpp6	3	Alternative_Demo
-NL	NA	11	qpp5	1	VVD
-NL	NA	11	qpp5	2	PvdA
-NL	NA	11	qpp5	3	PVV
-NL	NA	11	qpp5	4	SP
-NL	NA	11	qpp5	5	CDA
-NL	NA	11	qpp5	6	D66
-NL	NA	11	qpp5	7	Christian
-NL	NA	11	qpp5	8	Groen
-NL	NA	11	qpp5	9	Reformed
-NL	NA	11	qpp5	10	Animals
-NL	NA	11	qpp5	11	50Plus
-NL	NA	11	qpp5	12	Piraten
-NL	NA	11	qpp6	1	CDA
-NL	NA	11	qpp6	2	PvdA
-NL	NA	11	qpp6	3	SP
-NL	NA	11	qpp6	4	VVD
-NL	NA	11	qpp6	5	Groen
-NL	NA	11	qpp6	6	PVV
-NL	NA	11	qpp6	7	SGP
-NL	NA	11	qpp6	8	D66
-NL	NA	11	qpp6	9	Animals
-NL	NA	11	qpp6	10	50Plus
-PL	NA	39	qpp5	1	Civic_Platform
-PL	NA	39	qpp5	2	People
-PL	NA	39	qpp5	3	Left_Alliance
-PL	NA	39	qpp5	4	LawJustice
-PL	NA	39	qpp5	5	Palikot
-PL	NA	39	qpp5	6	German_Minority
-PL	NA	39	qpp5	7	PL_First
-PL	NA	39	qpp5	8	New_Right
-PL	NA	39	qpp6	1	United_Poland
-PL	NA	39	qpp6	2	Left_Alliance
-PL	NA	39	qpp6	3	Civic_Platform
-PL	NA	39	qpp6	4	Movement
-PL	NA	39	qpp6	5	People
-PL	NA	39	qpp6	6	New_Right
-PL	NA	39	qpp6	7	LawJustice
-PL	NA	39	qpp6	8	Poland_Together
-PL	NA	39	qpp6	9	National_Movement
-PT	NA	13	qpp5	1	Coal_PSD
-PT	NA	13	qpp5	2	PSD
-PT	NA	13	qpp5	3	CDS_PP
-PT	NA	13	qpp5	4	PS
-PT	NA	13	qpp5	5	CDU
-PT	NA	13	qpp5	6	BE
-PT	NA	13	qpp5	7	PCTP
-PT	NA	13	qpp5	8	PAN
-PT	NA	13	qpp6	1	BE
-PT	NA	13	qpp6	2	PCP
-PT	NA	13	qpp6	3	PEV
-PT	NA	13	qpp6	4	PS
-PT	NA	13	qpp6	5	PSD
-PT	NA	13	qpp6	6	CDS_PP
-PT	NA	13	qpp6	7	PPM
-PT	NA	13	qpp6	8	MPT
-RO	NA	40	qpp5	1	USL
-RO	NA	40	qpp5	2	ARD
-RO	NA	40	qpp5	3	PP_DD
-RO	NA	40	qpp5	4	UDMR
-RO	NA	40	qpp5	5	PRM
-RO	NA	40	qpp5	6	Ecological
-RO	NA	40	qpp5	7	Christian
-RO	NA	40	qpp6	1	PSD
-RO	NA	40	qpp6	2	Conservative
-RO	NA	40	qpp6	3	Progress
-RO	NA	40	qpp6	4	PNL
-RO	NA	40	qpp6	5	PDL
-RO	NA	40	qpp6	6	PP_DD
-RO	NA	40	qpp6	7	UDMR
-RO	NA	40	qpp6	8	PMP
-RO	NA	40	qpp6	9	PFC
-RO	NA	40	qpp6	10	PNTCD
-RO	NA	40	qpp6	11	PRM
-RO	NA	40	qpp6	12	New_Republic
-SE	NA	14	qpp5	1	SP
-SE	NA	14	qpp5	2	M
-SE	NA	14	qpp5	3	MP
-SE	NA	14	qpp5	4	FP
-SE	NA	14	qpp5	5	C
-SE	NA	14	qpp5	6	SD
-SE	NA	14	qpp5	7	KD
-SE	NA	14	qpp5	8	VP
-SE	NA	14	qpp5	9	PP
-SE	NA	14	qpp5	10	FI
-SE	NA	14	qpp6	1	VP
-SE	NA	14	qpp6	2	SP
-SE	NA	14	qpp6	3	C
-SE	NA	14	qpp6	4	FP
-SE	NA	14	qpp6	5	M
-SE	NA	14	qpp6	6	KD
-SE	NA	14	qpp6	7	MP
-SE	NA	14	qpp6	8	SD
-SE	NA	14	qpp6	9	FI
-SE	NA	14	qpp6	10	PP
-SI	NA	42	qpp5	1	PS
-SI	NA	42	qpp5	2	SDS
-SI	NA	42	qpp5	3	SD
-SI	NA	42	qpp5	4	DL
-SI	NA	42	qpp5	5	DESUS
-SI	NA	42	qpp5	6	NSI
-SI	NA	42	qpp5	7	SLS
-SI	NA	42	qpp5	8	SNS
-SI	NA	42	qpp5	9	LDS
-SI	NA	42	qpp5	10	Zares
-SI	NA	42	qpp5	11	TRS
-SI	NA	42	qpp5	12	DSD
-SI	NA	42	qpp5	13	Movemnt_Slovenia
-SI	NA	42	qpp5	14	SMS
-SI	NA	42	qpp6	1	SDS
-SI	NA	42	qpp6	2	SD
-SI	NA	42	qpp6	3	Zares
-SI	NA	42	qpp6	4	PS
-SI	NA	42	qpp6	5	DESUS
-SI	NA	42	qpp6	6	DL
-SI	NA	42	qpp6	8	SNS
-SI	NA	42	qpp6	9	LDS
-SI	NA	42	qpp6	10	Christian
-SI	NA	42	qpp6	11	SLS
-SI	NA	42	qpp6	12	TRS
-SI	NA	42	qpp6	13	DSD
-SI	NA	42	qpp6	14	Movemnt_Slovenia
-SI	NA	42	qpp6	15	SMS
-SK	NA	41	qpp5	1	KDH
-SK	NA	41	qpp5	2	SDKU_DS
-SK	NA	41	qpp5	3	SMK_MKP
-SK	NA	41	qpp5	4	Smer_SD
-SK	NA	41	qpp5	5	SNS
-SK	NA	41	qpp5	6	SaS
-SK	NA	41	qpp5	7	OlaNo
-SK	NA	41	qpp5	8	Most
-SK	NA	41	qpp5	9	LSNS
-SK	NA	41	qpp5	10	Communist
-SK	NA	41	qpp5	11	Green
-SK	NA	41	qpp6	1	KDH
-SK	NA	41	qpp6	2	SDKU_DS
-SK	NA	41	qpp6	3	SaS
-SK	NA	41	qpp6	4	SNS
-SK	NA	41	qpp6	5	Smer_SD
-SK	NA	41	qpp6	6	SMK_MKP
-SK	NA	41	qpp6	7	OlaNo
-SK	NA	41	qpp6	8	NOVA
-SK	NA	41	qpp6	9	Most
-SK	NA	41	qpp6	10	LSNS
-SK	NA	41	qpp6	11	Communist
-SK	NA	41	qpp6	12	Democratic_Slovakia
-SK	NA	41	qpp6	13	Bottom
-SK	NA	41	qpp6	14	Our_Party
-SK	NA	41	qpp6	15	Law_Justice
-SK	NA	41	qpp6	16	People
-SK	NA	41	qpp6	17	Green
-UK	NA	22	qpp5	1	Con
-UK	NA	22	qpp5	2	Lab
-UK	NA	22	qpp5	3	LD
-UK	NA	22	qpp5	4	SNP
-UK	NA	22	qpp5	5	Plaid
-UK	NA	22	qpp5	6	SDLP
-UK	NA	22	qpp5	7	GP
-UK	NA	22	qpp5	8	UKIP
-UK	NA	22	qpp5	9	BNP
-UK	NA	22	qpp5	10	Christian
-UK	NA	22	qpp5	11	English_Democrats
-UK	NA	22	qpp5	12	Socialist_Labour
-UK	NA	22	qpp5	13	DUP
-UK	NA	22	qpp5	14	SF
-UK	NA	22	qpp5	15	UUP
-UK	NA	22	qpp6	1	Con
-UK	NA	22	qpp6	2	Lab
-UK	NA	22	qpp6	3	UKIP
-UK	NA	22	qpp6	4	BNP
-UK	NA	22	qpp6	5	SNP
-UK	NA	22	qpp6	6	Plaid
-UK	NA	22	qpp6	7	LD
-UK	NA	22	qpp6	8	GP
-UK	NA	22	qpp6	10	SF
-UK	NA	22	qpp6	11	DUP
-UK	NA	22	qpp6	12	UUP
-UK	NA	22	qpp6	13	SDLP
-UK	NA	22	qpp6	14	NI
-CR	NA	46	qpp5	1	SDP_HNS_IDS
-CR	NA	46	qpp5	2	HDZ
-CR	NA	46	qpp5	3	Peasant
-CR	NA	46	qpp5	4	HSP
-CR	NA	46	qpp5	5	HSP_AS
-CR	NA	46	qpp5	6	BUZ
-CR	NA	46	qpp5	7	HSLS
-CR	NA	46	qpp5	8	HL_SR
-CR	NA	46	qpp5	9	HDSSB
-CR	NA	46	qpp6	1	HDZ
-CR	NA	46	qpp6	2	HSP_AS
-CR	NA	46	qpp6	3	BUZ
-CR	NA	46	qpp6	4	Peasant
-CR	NA	46	qpp6	5	SDP
-CR	NA	46	qpp6	6	HNS
-CR	NA	46	qpp6	7	HSU
-CR	NA	46	qpp6	8	SDSS
-CR	NA	46	qpp6	9	IDS
-CR	NA	46	qpp6	10	NL
-CR	NA	46	qpp6	11	HSLS
-CR	NA	46	qpp6	12	PGS
-CR	NA	46	qpp6	13	HDSSB
-CR	NA	46	qpp6	14	HL_SR
-CR	NA	46	qpp6	15	ORaH
-CR	NA	46	qpp6	16	HSP
-CR	NA	46	qpp6	17	Hrast
+cntry_short	b	var	value_old	value_new
+AT	12	qpp5	1	OEVP
+AT	12	qpp5	2	SPOE
+AT	12	qpp5	3	NEOS
+AT	12	qpp5	4	Gruene
+AT	12	qpp5	5	FPOE
+AT	12	qpp5	6	BZOE
+AT	12	qpp5	7	LIF
+AT	12	qpp5	8	FRITZ
+AT	12	qpp5	9	KPOE
+AT	12	qpp6	1	SPOE
+AT	12	qpp6	2	OEVP
+AT	12	qpp6	3	FPOE
+AT	12	qpp6	4	BZOE
+AT	12	qpp6	5	Gruene
+AT	12	qpp6	6	KPOE
+AT	12	qpp6	7	Piraten
+AT	12	qpp6	8	Change
+AT	12	qpp6	9	NEOS
+AT	12	qpp6	10	REKOS
+BE	1	qpp5	1	PVDA
+BE	1	qpp5	2	CD_V
+BE	1	qpp5	3	sp.a
+BE	1	qpp5	4	Open_VLD
+BE	1	qpp5	5	N_VA
+BE	1	qpp5	6	Piraten
+BE	1	qpp5	7	VB
+BE	1	qpp5	8	cdH
+BE	1	qpp5	9	PS
+BE	1	qpp5	10	MR
+BE	1	qpp5	11	Ecolo
+BE	1	qpp5	12	PP
+BE	1	qpp5	13	PTB_go
+BE	1	qpp6	1	PS
+BE	1	qpp6	2	MR
+BE	1	qpp6	3	cdH
+BE	1	qpp6	4	Ecolo
+BE	1	qpp6	5	FN
+BE	1	qpp6	6	PTB_go
+BE	1	qpp6	7	FDF
+BE	1	qpp6	8	droite
+BE	1	qpp6	9	PP
+BE	1	qpp6	10	other_french
+BE	1	qpp6	11	CSP
+BE	1	qpp6	12	SP
+BE	1	qpp6	13	PFF
+BE	1	qpp6	14	ProDG
+BE	1	qpp6	15	other_german
+BE	1	qpp6	16	CD_V
+BE	1	qpp6	17	Groen
+BE	1	qpp6	18	N_VA
+BE	1	qpp6	19	sp.a
+BE	1	qpp6	20	VB
+BE	1	qpp6	21	Open_VLD
+BE	1	qpp6	22	PVDA
+BE	1	qpp6	23	other_dutch
+BG	31	qpp5	1	Citizens
+BG	31	qpp5	2	Coal
+BG	31	qpp5	3	MRF
+BG	31	qpp5	4	Attack
+BG	31	qpp5	5	Order
+BG	31	qpp5	6	LIDER
+BG	31	qpp5	7	Stability
+BG	31	qpp5	8	Stability
+BG	31	qpp5	9	IMRO
+BG	31	qpp5	10	Democrats
+BG	31	qpp5	11	C_movement
+BG	31	qpp5	12	PROUD
+BG	31	qpp6	1	Socialist
+BG	31	qpp6	2	MRF
+BG	31	qpp6	3	Attack
+BG	31	qpp6	4	Citizens
+BG	31	qpp6	5	Stability
+BG	31	qpp6	6	Reformist
+BG	31	qpp6	7	No_Censor
+BG	31	qpp6	8	Mac_Rev
+BG	31	qpp6	9	Georgia_day
+BG	31	qpp6	10	agrarian
+BG	31	qpp6	11	Revival
+BG	31	qpp6	12	Blue_Unity
+BG	31	qpp6	13	Greens
+BG	31	qpp6	14	Glas
+BG	31	qpp6	15	Dignity
+CZ	33	qpp5	1	KDU
+CZ	33	qpp5	2	TOP09
+CZ	33	qpp5	3	CSSD
+CZ	33	qpp5	4	Green
+CZ	33	qpp5	5	Piraten
+CZ	33	qpp5	6	ODS
+CZ	33	qpp5	7	KSCM
+CZ	33	qpp5	8	Usvit
+CZ	33	qpp5	9	ANO2011
+CZ	33	qpp5	10	Politika21
+CZ	33	qpp5	11	Free_Citizens
+CZ	33	qpp5	12	Civic_Rights
+CZ	33	qpp5	13	Workers
+CZ	33	qpp5	14	Republic
+CZ	33	qpp5	15	Roma
+CZ	33	qpp5	16	Common
+CZ	33	qpp5	17	Green
+CZ	33	qpp5	18	National_Social
+CZ	33	qpp5	19	Public
+CZ	33	qpp5	20	VIZE2014
+CZ	33	qpp5	21	Right
+CZ	33	qpp6	1	ODS
+CZ	33	qpp6	2	CSSD
+CZ	33	qpp6	3	KSCM
+CZ	33	qpp6	4	KDU
+CZ	33	qpp6	5	Public
+CZ	33	qpp6	6	TOP09
+CZ	33	qpp6	7	ANO2011
+CZ	33	qpp6	8	Green
+CZ	33	qpp6	9	Dawn
+CZ	33	qpp6	10	Piraten
+CZ	33	qpp6	11	Free_Citizens
+CZ	33	qpp6	12	National_Social
+CZ	33	qpp6	13	Mayors
+CZ	33	qpp6	14	Politika21
+CZ	33	qpp6	15	Civic_Rights
+CZ	33	qpp6	16	Workers
+CZ	33	qpp6	17	Republic
+CZ	33	qpp6	18	Roma
+CZ	33	qpp6	19	SNK
+CZ	33	qpp6	20	Common
+CZ	33	qpp6	21	Dawn
+CZ	33	qpp6	22	VIZE2014
+CZ	33	qpp6	23	Right
+DE	20	qpp5	1	CDU
+DE	20	qpp5	2	CSU
+DE	20	qpp5	3	SPD
+DE	20	qpp5	4	FDP
+DE	20	qpp5	5	Gruene
+DE	20	qpp5	6	Piraten
+DE	20	qpp5	7	Left
+DE	20	qpp5	8	AfD
+DE	20	qpp5	9	NPD
+DE	20	qpp5	10	Republicans
+DE	20	qpp6	1	CDU_CSU
+DE	20	qpp6	2	DPD
+DE	20	qpp6	3	Gruene
+DE	20	qpp6	4	Left
+DE	20	qpp6	5	FDP
+DE	20	qpp6	6	Piraten
+DE	20	qpp6	7	AfD
+DE	20	qpp6	8	Familien
+DE	20	qpp6	9	Free_Voters
+DE	20	qpp6	10	NPD
+DE	20	qpp6	11	Ecological
+DE	20	qpp6	12	Bible_Abiding
+DE	20	qpp6	13	Republicans
+DE	20	qpp6	14	Protection
+DK	2	qpp5	1	Socialdem
+DK	2	qpp5	2	Venstre
+DK	2	qpp5	3	SF
+DK	2	qpp5	4	Folkeparti
+DK	2	qpp5	5	Radical
+DK	2	qpp5	6	Red_Green
+DK	2	qpp5	7	Liberal
+DK	2	qpp5	8	Conservative
+DK	2	qpp5	9	Christian
+DK	2	qpp6	1	Socialdem
+DK	2	qpp6	2	Radical
+DK	2	qpp6	3	Conservative
+DK	2	qpp6	4	SF
+DK	2	qpp6	5	Folkeparti
+DK	2	qpp6	6	Liberal
+DK	2	qpp6	7	Venstre
+DK	2	qpp6	8	Christian
+DK	2	qpp6	9	Red_Green
+EE	34	qpp5	1	IRL
+EE	34	qpp5	2	SDE
+EE	34	qpp5	3	Reform
+EE	34	qpp5	4	Center
+EE	34	qpp5	5	Greens
+EE	34	qpp5	6	People_Union
+EE	34	qpp5	7	Russian_Party
+EE	34	qpp5	8	Christian
+EE	34	qpp5	9	Independence_Party
+EE	34	qpp6	1	Reform
+EE	34	qpp6	2	Center
+EE	34	qpp6	3	IRL
+EE	34	qpp6	4	SDE
+EE	34	qpp6	5	Greens
+EE	34	qpp6	6	Conservative
+EE	34	qpp6	7	Independence_Party
+EE	34	qpp6	8	Independent
+GR	4	qpp5	1	New_Democracy
+GR	4	qpp5	2	Radical_Left
+GR	4	qpp5	3	Panhellenic
+GR	4	qpp5	4	Indpendent
+GR	4	qpp5	5	Golden
+GR	4	qpp5	6	Democratic_Left
+GR	4	qpp5	7	Communist
+GR	4	qpp5	8	Recreate
+GR	4	qpp5	9	Orthodox
+GR	4	qpp6	1	New_Democracy
+GR	4	qpp6	2	Panhellenic
+GR	4	qpp6	3	Communist
+GR	4	qpp6	4	Radical_Left
+GR	4	qpp6	5	Orthodox
+GR	4	qpp6	6	Ecologist
+GR	4	qpp6	7	Golden
+GR	4	qpp6	8	Indpendent
+GR	4	qpp6	9	Democratic_Left
+GR	4	qpp6	10	River
+ES	4	qpp5	1	PP
+ES	4	qpp5	2	PSOE
+ES	4	qpp5	3	United_Left
+ES	4	qpp5	4	ICV
+ES	4	qpp5	5	UPyD
+ES	4	qpp5	6	CiU
+ES	4	qpp5	7	Amaiur
+ES	4	qpp5	8	EAJ_PNV
+ES	4	qpp5	9	ERC
+ES	4	qpp5	10	BNG
+ES	4	qpp5	11	CC
+ES	4	qpp5	12	Commitment
+ES	4	qpp5	13	Forum
+ES	4	qpp5	14	Future_Yes
+ES	4	qpp5	15	AGE
+ES	4	qpp5	16	Ciudadanos
+ES	4	qpp5	17	Equo
+ES	4	qpp6	1	PSOE
+ES	4	qpp6	2	PP
+ES	4	qpp6	3	United_Left
+ES	4	qpp6	4	ICV
+ES	4	qpp6	5	ANOVA
+ES	4	qpp6	6	UPyD
+ES	4	qpp6	7	CDC
+ES	4	qpp6	8	EAJ_PNV
+ES	4	qpp6	9	Unio
+ES	4	qpp6	10	CC
+ES	4	qpp6	11	Commitment
+ES	4	qpp6	12	ERC
+ES	4	qpp6	13	New_Cat_Left
+ES	4	qpp6	14	BNG
+ES	4	qpp6	15	EH_Bildu
+ES	4	qpp6	16	Equo
+ES	4	qpp6	17	Ciudadanos
+ES	4	qpp6	18	Voice
+ES	4	qpp6	19	Podemos
+FI	6	qpp5	1	Kok
+FI	6	qpp5	2	KD
+FI	6	qpp5	3	SDP
+FI	6	qpp5	4	Kesk
+FI	6	qpp5	5	SFP
+FI	6	qpp5	6	Vihr
+FI	6	qpp5	7	Piraten
+FI	6	qpp5	8	Vas
+FI	6	qpp5	9	SKP
+FI	6	qpp5	10	Independence
+FI	6	qpp5	11	Change2011
+FI	6	qpp5	12	Perus
+FI	6	qpp5	13	Freedom_Party
+FI	6	qpp5	14	Senior
+FI	6	qpp5	15	Workers
+FI	6	qpp5	16	Communist
+FI	6	qpp5	17	Poor
+FI	6	qpp6	1	Kesk
+FI	6	qpp6	2	Kok
+FI	6	qpp6	3	SDP
+FI	6	qpp6	4	Vas
+FI	6	qpp6	5	Vihr
+FI	6	qpp6	6	SFP
+FI	6	qpp6	7	Perus
+FI	6	qpp6	8	KD
+FR	7	qpp5	1	UMP
+FR	7	qpp5	2	PS
+FR	7	qpp5	3	FN
+FR	7	qpp5	4	Miscalleneous_Left
+FR	7	qpp5	5	EELV
+FR	7	qpp5	6	Miscalleneous_Right
+FR	7	qpp5	7	New_Centre
+FR	7	qpp5	8	Left_Radical
+FR	7	qpp5	9	FdG
+FR	7	qpp5	10	Radical_Party
+FR	7	qpp5	11	MoDem
+FR	7	qpp5	12	Centrist
+FR	7	qpp5	13	Regionalists
+FR	7	qpp6	1	UDI
+FR	7	qpp6	2	NPA
+FR	7	qpp6	3	FdG
+FR	7	qpp6	4	PS
+FR	7	qpp6	5	Left_Radical
+FR	7	qpp6	6	EELV
+FR	7	qpp6	7	LO
+FR	7	qpp6	8	UMP
+FR	7	qpp6	9	FN
+FR	7	qpp6	10	DLR
+FR	7	qpp6	11	UOM
+FR	7	qpp6	12	Alliance
+FR	7	qpp6	13	New_Deal
+HU	35	qpp5	2	FIDESZ
+HU	35	qpp5	3	JOBBIK
+HU	35	qpp5	4	LMP
+HU	35	qpp6	1	Egyutt
+HU	35	qpp6	2	MSZP
+HU	35	qpp6	3	DK
+HU	35	qpp6	4	FIDESZ
+HU	35	qpp6	5	JOBBIK
+HU	35	qpp6	6	LMP
+IE	8	qpp5	1	FG
+IE	8	qpp5	2	LP
+IE	8	qpp5	3	FF
+IE	8	qpp5	4	GP
+IE	8	qpp5	5	SF
+IE	8	qpp5	6	SP
+IE	8	qpp5	7	PBP
+IE	8	qpp5	8	New_Vision
+IE	8	qpp5	9	SKIA
+IE	8	qpp5	10	WP
+IE	8	qpp5	11	Left_Alliance
+IE	8	qpp5	12	CS
+IE	8	qpp5	13	PC
+IE	8	qpp5	14	New_Vision
+IE	8	qpp6	1	FF
+IE	8	qpp6	2	FG
+IE	8	qpp6	3	LP
+IE	8	qpp6	4	GP
+IE	8	qpp6	5	SF
+IE	8	qpp6	6	SP
+IE	8	qpp6	7	PBP
+IE	8	qpp6	8	New_Vision
+IE	8	qpp6	9	SKIA
+IE	8	qpp6	10	WP
+IE	8	qpp6	11	Left_Alliance
+IE	8	qpp6	12	CS
+IE	8	qpp6	13	PC
+IE	8	qpp6	14	New_Vision
+IT	9	qpp5	1	PD
+IT	9	qpp5	2	SEL
+IT	9	qpp5	4	SVP
+IT	9	qpp5	5	PDL
+IT	9	qpp5	6	Lega
+IT	9	qpp5	7	Fratelli
+IT	9	qpp5	8	MpA
+IT	9	qpp5	9	MCS
+IT	9	qpp5	10	SC
+IT	9	qpp5	11	UDC
+IT	9	qpp5	12	Civil_Revolution
+IT	9	qpp5	13	IdV
+IT	9	qpp6	1	IdV
+IT	9	qpp6	2	Lega
+IT	9	qpp6	3	PD
+IT	9	qpp6	4	Fi
+IT	9	qpp6	5	NCD
+IT	9	qpp6	6	UDC
+IT	9	qpp6	7	Populars
+IT	9	qpp6	8	Fratelli
+IT	9	qpp6	9	SC
+IT	9	qpp6	11	MCS
+IT	9	qpp6	12	SVP
+IT	9	qpp6	13	SEL
+LT	37	qpp5	1	TS_LKD
+LT	37	qpp5	2	LSDP
+LT	37	qpp5	3	LRLS
+LT	37	qpp5	4	DP
+LT	37	qpp5	5	Liberal_C_Union
+LT	37	qpp5	6	TT
+LT	37	qpp5	7	LVZS
+LT	37	qpp5	8	Courage
+LT	37	qpp5	9	LLRA
+LT	37	qpp6	1	DP
+LT	37	qpp6	2	LZP
+LT	37	qpp6	3	LLRA
+LT	37	qpp6	4	LRLS
+LT	37	qpp6	5	LSDP
+LT	37	qpp6	6	LVZS
+LT	37	qpp6	7	TT
+LT	37	qpp6	8	TS_LKD
+LT	37	qpp6	9	TAIP
+LU	10	qpp5	1	CSV
+LU	10	qpp5	2	LSAP
+LU	10	qpp5	3	DP
+LU	10	qpp5	4	Greng
+LU	10	qpp5	5	Piraten
+LU	10	qpp5	6	ADR
+LU	10	qpp5	7	PID
+LU	10	qpp5	8	Lenk
+LU	10	qpp5	9	KPL
+LU	10	qpp6	1	CSV
+LU	10	qpp6	2	LSAP
+LU	10	qpp6	3	DP
+LU	10	qpp6	4	Greng
+LU	10	qpp6	5	Piraten
+LU	10	qpp6	6	ADR
+LU	10	qpp6	7	PID
+LU	10	qpp6	8	Lenk
+LU	10	qpp6	9	KPL
+LV	36	qpp5	1	V
+LV	36	qpp5	2	Concord
+LV	36	qpp5	5	Human_Rights
+LV	36	qpp5	6	Fatherland
+LV	36	qpp5	7	Presidential_Republic
+LV	36	qpp5	8	Green
+LV	36	qpp5	9	Reform_Party
+LV	36	qpp5	10	LPP
+LV	36	qpp5	14	Christian
+LV	36	qpp5	15	Sdemocratic_Workers
+LV	36	qpp5	16	Last
+LV	36	qpp5	17	People_Control
+LV	36	qpp5	18	Freedom
+LV	36	qpp6	1	Russian_Union
+LV	36	qpp6	2	Fatherland
+LV	36	qpp6	3	V
+LV	36	qpp6	4	Concord
+LV	36	qpp6	5	Socialist
+LV	36	qpp6	6	Green
+LV	36	qpp6	7	Alternative
+LV	36	qpp6	8	Development
+LV	36	qpp6	9	Reform_Party
+MT	38	qpp5	1	Laburista
+MT	38	qpp5	2	Najjonalista
+MT	38	qpp5	3	Alternative_Demo
+MT	38	qpp6	2	Laburista
+MT	38	qpp6	1	Najjonalista
+MT	38	qpp6	3	Alternative_Demo
+NL	11	qpp5	1	VVD
+NL	11	qpp5	2	PvdA
+NL	11	qpp5	3	PVV
+NL	11	qpp5	4	SP
+NL	11	qpp5	5	CDA
+NL	11	qpp5	6	D66
+NL	11	qpp5	7	Christian
+NL	11	qpp5	8	Groen
+NL	11	qpp5	9	Reformed
+NL	11	qpp5	10	Animals
+NL	11	qpp5	11	50Plus
+NL	11	qpp5	12	Piraten
+NL	11	qpp6	1	CDA
+NL	11	qpp6	2	PvdA
+NL	11	qpp6	3	SP
+NL	11	qpp6	4	VVD
+NL	11	qpp6	5	Groen
+NL	11	qpp6	6	PVV
+NL	11	qpp6	7	SGP
+NL	11	qpp6	8	D66
+NL	11	qpp6	9	Animals
+NL	11	qpp6	10	50Plus
+PL	39	qpp5	1	Civic_Platform
+PL	39	qpp5	2	People
+PL	39	qpp5	3	Left_Alliance
+PL	39	qpp5	4	LawJustice
+PL	39	qpp5	5	Palikot
+PL	39	qpp5	6	German_Minority
+PL	39	qpp5	7	PL_First
+PL	39	qpp5	8	New_Right
+PL	39	qpp6	1	United_Poland
+PL	39	qpp6	2	Left_Alliance
+PL	39	qpp6	3	Civic_Platform
+PL	39	qpp6	4	Movement
+PL	39	qpp6	5	People
+PL	39	qpp6	6	New_Right
+PL	39	qpp6	7	LawJustice
+PL	39	qpp6	8	Poland_Together
+PL	39	qpp6	9	National_Movement
+PT	13	qpp5	1	Coal_PSD
+PT	13	qpp5	2	PSD
+PT	13	qpp5	3	CDS_PP
+PT	13	qpp5	4	PS
+PT	13	qpp5	5	CDU
+PT	13	qpp5	6	BE
+PT	13	qpp5	7	PCTP
+PT	13	qpp5	8	PAN
+PT	13	qpp6	1	BE
+PT	13	qpp6	2	PCP
+PT	13	qpp6	3	PEV
+PT	13	qpp6	4	PS
+PT	13	qpp6	5	PSD
+PT	13	qpp6	6	CDS_PP
+PT	13	qpp6	7	PPM
+PT	13	qpp6	8	MPT
+RO	40	qpp5	1	USL
+RO	40	qpp5	2	ARD
+RO	40	qpp5	3	PP_DD
+RO	40	qpp5	4	UDMR
+RO	40	qpp5	5	PRM
+RO	40	qpp5	6	Ecological
+RO	40	qpp5	7	Christian
+RO	40	qpp6	1	PSD
+RO	40	qpp6	2	Conservative
+RO	40	qpp6	3	Progress
+RO	40	qpp6	4	PNL
+RO	40	qpp6	5	PDL
+RO	40	qpp6	6	PP_DD
+RO	40	qpp6	7	UDMR
+RO	40	qpp6	8	PMP
+RO	40	qpp6	9	PFC
+RO	40	qpp6	10	PNTCD
+RO	40	qpp6	11	PRM
+RO	40	qpp6	12	New_Republic
+SE	14	qpp5	1	SP
+SE	14	qpp5	2	M
+SE	14	qpp5	3	MP
+SE	14	qpp5	4	FP
+SE	14	qpp5	5	C
+SE	14	qpp5	6	SD
+SE	14	qpp5	7	KD
+SE	14	qpp5	8	VP
+SE	14	qpp5	9	PP
+SE	14	qpp5	10	FI
+SE	14	qpp6	1	VP
+SE	14	qpp6	2	SP
+SE	14	qpp6	3	C
+SE	14	qpp6	4	FP
+SE	14	qpp6	5	M
+SE	14	qpp6	6	KD
+SE	14	qpp6	7	MP
+SE	14	qpp6	8	SD
+SE	14	qpp6	9	FI
+SE	14	qpp6	10	PP
+SI	42	qpp5	1	PS
+SI	42	qpp5	2	SDS
+SI	42	qpp5	3	SD
+SI	42	qpp5	4	DL
+SI	42	qpp5	5	DESUS
+SI	42	qpp5	6	NSI
+SI	42	qpp5	7	SLS
+SI	42	qpp5	8	SNS
+SI	42	qpp5	9	LDS
+SI	42	qpp5	10	Zares
+SI	42	qpp5	11	TRS
+SI	42	qpp5	12	DSD
+SI	42	qpp5	13	Movemnt_Slovenia
+SI	42	qpp5	14	SMS
+SI	42	qpp6	1	SDS
+SI	42	qpp6	2	SD
+SI	42	qpp6	3	Zares
+SI	42	qpp6	4	PS
+SI	42	qpp6	5	DESUS
+SI	42	qpp6	6	DL
+SI	42	qpp6	8	SNS
+SI	42	qpp6	9	LDS
+SI	42	qpp6	10	Christian
+SI	42	qpp6	11	SLS
+SI	42	qpp6	12	TRS
+SI	42	qpp6	13	DSD
+SI	42	qpp6	14	Movemnt_Slovenia
+SI	42	qpp6	15	SMS
+SK	41	qpp5	1	KDH
+SK	41	qpp5	2	SDKU_DS
+SK	41	qpp5	3	SMK_MKP
+SK	41	qpp5	4	Smer_SD
+SK	41	qpp5	5	SNS
+SK	41	qpp5	6	SaS
+SK	41	qpp5	7	OlaNo
+SK	41	qpp5	8	Most
+SK	41	qpp5	9	LSNS
+SK	41	qpp5	10	Communist
+SK	41	qpp5	11	Green
+SK	41	qpp6	1	KDH
+SK	41	qpp6	2	SDKU_DS
+SK	41	qpp6	3	SaS
+SK	41	qpp6	4	SNS
+SK	41	qpp6	5	Smer_SD
+SK	41	qpp6	6	SMK_MKP
+SK	41	qpp6	7	OlaNo
+SK	41	qpp6	8	NOVA
+SK	41	qpp6	9	Most
+SK	41	qpp6	10	LSNS
+SK	41	qpp6	11	Communist
+SK	41	qpp6	12	Democratic_Slovakia
+SK	41	qpp6	13	Bottom
+SK	41	qpp6	14	Our_Party
+SK	41	qpp6	15	Law_Justice
+SK	41	qpp6	16	People
+SK	41	qpp6	17	Green
+UK	22	qpp5	1	Con
+UK	22	qpp5	2	Lab
+UK	22	qpp5	3	LD
+UK	22	qpp5	4	SNP
+UK	22	qpp5	5	Plaid
+UK	22	qpp5	6	SDLP
+UK	22	qpp5	7	GP
+UK	22	qpp5	8	UKIP
+UK	22	qpp5	9	BNP
+UK	22	qpp5	10	Christian
+UK	22	qpp5	11	English_Democrats
+UK	22	qpp5	12	Socialist_Labour
+UK	22	qpp5	13	DUP
+UK	22	qpp5	14	SF
+UK	22	qpp5	15	UUP
+UK	22	qpp6	1	Con
+UK	22	qpp6	2	Lab
+UK	22	qpp6	3	UKIP
+UK	22	qpp6	4	BNP
+UK	22	qpp6	5	SNP
+UK	22	qpp6	6	Plaid
+UK	22	qpp6	7	LD
+UK	22	qpp6	8	GP
+UK	22	qpp6	10	SF
+UK	22	qpp6	11	DUP
+UK	22	qpp6	12	UUP
+UK	22	qpp6	13	SDLP
+UK	22	qpp6	14	NI
+CR	46	qpp5	1	SDP_HNS_IDS
+CR	46	qpp5	2	HDZ
+CR	46	qpp5	3	Peasant
+CR	46	qpp5	4	HSP
+CR	46	qpp5	5	HSP_AS
+CR	46	qpp5	6	BUZ
+CR	46	qpp5	7	HSLS
+CR	46	qpp5	8	HL_SR
+CR	46	qpp5	9	HDSSB
+CR	46	qpp6	1	HDZ
+CR	46	qpp6	2	HSP_AS
+CR	46	qpp6	3	BUZ
+CR	46	qpp6	4	Peasant
+CR	46	qpp6	5	SDP
+CR	46	qpp6	6	HNS
+CR	46	qpp6	7	HSU
+CR	46	qpp6	8	SDSS
+CR	46	qpp6	9	IDS
+CR	46	qpp6	10	NL
+CR	46	qpp6	11	HSLS
+CR	46	qpp6	12	PGS
+CR	46	qpp6	13	HDSSB
+CR	46	qpp6	14	HL_SR
+CR	46	qpp6	15	ORaH
+CR	46	qpp6	16	HSP
+CR	46	qpp6	17	Hrast
