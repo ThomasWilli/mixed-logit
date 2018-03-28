@@ -3,10 +3,19 @@ parties <- read.table("https://raw.githubusercontent.com/ThomasWilli/mixed-logit
 
 
 
-label_changer <- function(ees_raw, cntrynr){
+label_changer <- function(ees_raw, cntrynr, belgium=NULL){
   
-  labs <- labs %>%
-    dplyr::filter(b==cntrynr)
+  if(is.null(belgium)){
+    labs <- labs %>%
+      dplyr::filter(b==cntrynr)
+  }else{
+    labs <- labs %>%
+      dplyr::filter(b==cntrynr&p7_region_nuts1==belgium)
+    
+    ees_raw <- ees_raw %>% filter(p7_region_nuts1==belgium)
+  }
+  
+  
   
  
   ees_temp_pos <- grep(paste0(labs$var_old, collapse="|"), names(ees_raw))
@@ -35,10 +44,21 @@ label_changer <- function(ees_raw, cntrynr){
   
 }
 
-qpp5_changer <- function(ees, country){
-  qpp5.df <- parties %>%
-    dplyr::filter(b==country)%>%
-    dplyr::filter(var=="qpp5")
+qpp5_changer <- function(ees, country, belgium=NULL){
+  
+  if(is.null(belgium)){
+    qpp5.df <- parties %>%
+      dplyr::filter(b==country)%>%
+      dplyr::filter(var=="qpp5")
+  }else{
+    qpp5.df <- parties %>%
+      dplyr::filter(b==country)%>%
+      dplyr::filter(var=="qpp5")%>%
+      dplyr::filter(p7_region_nuts1==belgium)
+    
+    ees <- ees %>% filter(p7_region_nuts1==belgium)
+  }
+  
   
   ees$qpp5 <- as.character(ees$qpp5)
   ees$qpp5 <- as.numeric(ees$qpp5)
@@ -65,35 +85,53 @@ qpp5_changer <- function(ees, country){
   return(ees)
 }
 
-qpp6_changer <- function(ees, country){
-  qpp6.df <- parties %>%
-    dplyr::filter(b==country)%>%
-    dplyr::filter(var=="qpp6")
+
+
+
+qpp6_changer <- function(ees_raw, country, belgium=NULL){
   
-  ees$qpp6 <- as.character(ees$qpp6)
-  ees$qpp6 <- as.numeric(ees$qpp6)
-  ees$qpp6[ees$qpp6==-9] <- NA
-  ees$qpp6[ees$qpp6==-8] <- NA
-  ees$qpp6[ees$qpp6==-7] <- NA
-  ees$qpp6[ees$qpp6==34] <- NA
-  ees$qpp6[ees$qpp6==35] <- NA
-  ees$qpp6 <- paste0("QUARK",ees$qpp6)
+  if(is.null(belgium)){
+    qpp6.df <- parties %>%
+      dplyr::filter(b==country)%>%
+      dplyr::filter(var=="qpp6")
+  }else{
+    qpp6.df <- parties %>%
+      dplyr::filter(b==country)%>%
+      dplyr::filter(var=="qpp6")%>%
+      dplyr::filter(p7_region_nuts1==belgium)
+    
+    eesf <- ees_raw %>% filter(p7_region_nuts1==belgium)
+  }
+  
+  eesf$qpp6 <- as.character(eesf$qpp6)
+  eesf$qpp6 <- as.numeric(eesf$qpp6)
+  eesf$qpp6[eesf$qpp6==-9] <- NA
+  eesf$qpp6[eesf$qpp6==-8] <- NA
+  eesf$qpp6[eesf$qpp6==-7] <- NA
+  eesf$qpp6[eesf$qpp6==34] <- NA
+  eesf$qpp6[eesf$qpp6==35] <- NA
+  eesf$qpp6 <- paste0("QUARK",eesf$qpp6)
   
   for(i in nrow(qpp6.df):1){
     
     new <- as.character(qpp6.df[i,"value_new"])
     
     lal <- paste0("QUARK", as.character(qpp6.df[i,"value_old"]))
-    ees$qpp6 <- gsub(lal, new, ees$qpp6, fixed=T)
+    eesf$qpp6 <- gsub(lal, new, eesf$qpp6, fixed=T)
     
     #unique(ees$qpp6)
     
   }
   
-  ees$qpp6 <- gsub("QUARKNA", NA, ees$qpp6, fixed=T)
+  eesf$qpp6 <- gsub("QUARKNA", NA, eesf$qpp6, fixed=T)
   
-  return(ees)
+  return(eesf)
 }
+
+
+
+
+
 
 #function to convert PTV into consideration 1/0
 ptv_consideration <- function(input) ifelse(input==-99, 0, 
@@ -103,36 +141,3 @@ ptv_consideration <- function(input) ifelse(input==-99, 0,
 issue_cleaner <- function(input) ifelse(input==-8|input==-7|input==-9, NA, input-1)
 
 
-
-label_changer_belgium <- function(ees_raw, cntrynr, nuts1){
-  
-  labs <- labs %>%
-    dplyr::filter(b==cntrynr&p7_region_nuts1==nuts1)
-  
-  ees_raw <- ees_raw %>% filter(p7_region_nuts1==nuts1)
-  
-  ees_temp_pos <- grep(paste0(labs$var_old, collapse="|"), names(ees_raw))
-  ees_temp <- ees_raw[,ees_temp_pos]
-  
-  #Change Variable labels
-  for(i in 1:nrow(labs)){
-    
-    nn <- as.character(labs[i, "var_old"])
-    
-    pos <- grep(nn, names(ees_temp))
-    if(grepl("qpp8", nn)){
-      new <- paste0("PTV_", as.character(labs[i, "var_new"]))
-    }else{
-      new <- paste0("LR_", as.character(labs[i, "var_new"]))
-    }
-    
-    names(ees_temp)[pos] <- new
-    
-    cat(nn, " --> ", new, "\n")
-    
-    
-  }
-  return(ees_temp)
-  
-  
-}
