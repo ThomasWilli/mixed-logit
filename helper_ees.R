@@ -2,6 +2,13 @@ labs <- read.table("https://raw.githubusercontent.com/ThomasWilli/mixed-logit/ma
 parties <- read.table("https://raw.githubusercontent.com/ThomasWilli/mixed-logit/master/data/parties.tsv", header=T, sep="\t")
 
 
+source_https <- function(url, ...) {
+  require(RCurl)
+  
+  sapply(c(url, ...), function(u) {
+    eval(parse(text = getURL(u, followlocation = TRUE, cainfo = system.file("CurlSSL", "cacert.pem", package = "RCurl"))), envir = .GlobalEnv)
+  })
+}
 
 
 
