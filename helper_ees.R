@@ -2,6 +2,7 @@ labs <- read.table("https://raw.githubusercontent.com/ThomasWilli/mixed-logit/ma
 parties <- read.table("https://raw.githubusercontent.com/ThomasWilli/mixed-logit/master/data/parties.tsv", header=T, sep="\t")
 
 
+
 source_https <- function(url, ...) {
   require(RCurl)
   
