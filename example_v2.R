@@ -4,7 +4,7 @@ library(dplyr)
 library(mlogit)
 
 #read in data
-toydata <- readRDS("data/toydata.Rds")
+toydata <- readRDS("mixed-logit/data/toydata.Rds")
 
 #get data into correct format
 TM1 = mlogit.data(toydata, choice = "lastvote", shape = "long",  alt.var = "mode")

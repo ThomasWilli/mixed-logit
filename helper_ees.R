@@ -139,4 +139,18 @@ ptv_consideration <- function(input) ifelse(input==-99, 0,
 
 issue_cleaner <- function(input) ifelse(input==-8|input==-7|input==-9, NA, input-1)
 
+issue_easy <- function(input) ifelse(input<5,1,
+                                        ifelse(input==5,0,-1))
 
+
+
+
+
+#ees$qpp1aO_EES
+
+#table(ees$qpp1aO_EES)
+
+#uu <- ees$qpp1aO_EES
+
+#uu[uu==-8] <- NA
+#uu[uu==]
