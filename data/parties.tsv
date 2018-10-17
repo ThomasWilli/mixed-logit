@@ -472,7 +472,7 @@ PT	13	qpp6	7	PPM
 PT	13	qpp6	8	MPT
 RO	40	qpp5	1	USL
 RO	40	qpp5	2	ARD
-RO	40	qpp5	3	PP_DD
+RO	40	qpp5	3	PPDD
 RO	40	qpp5	4	UDMR
 RO	40	qpp5	5	PRM
 RO	40	qpp5	6	Ecological
@@ -482,7 +482,7 @@ RO	40	qpp6	2	Conservative
 RO	40	qpp6	3	Progress
 RO	40	qpp6	4	PNL
 RO	40	qpp6	5	PDL
-RO	40	qpp6	6	PP_DD
+RO	40	qpp6	6	PPDD
 RO	40	qpp6	7	UDMR
 RO	40	qpp6	8	PMP
 RO	40	qpp6	9	PFC
